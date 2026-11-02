@@ -1,6 +1,6 @@
-# Actor-Reflection Agent (LangGraph)
+# Actor-Reflexion Agent (LangGraph)
 
-Agente de pesquisa que **responde, critica a própria resposta e sugere buscas** para melhorar — o padrão *Actor / Reflection* (base do "Reflexion"). A resposta não sai crua: passa por um ciclo de auto-crítica guiado pelo schema de saída.
+Agente de pesquisa que **responde, critica a própria resposta e sugere buscas** para melhorar — o padrão *Actor / Reflexion* (base do "Reflexion"). A resposta não sai crua: passa por um ciclo de auto-crítica guiado pelo schema de saída.
 
 ![Fluxo do agente](flow.png)
 
