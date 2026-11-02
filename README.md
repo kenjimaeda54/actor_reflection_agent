@@ -54,6 +54,12 @@ Detalhes que valem saber:
 
 ## Ciclo completo (para onde o projeto vai)
 
+Diagrama de referência do padrão (*Reflexion Actor*) e o grafo real gerado por `main.py`:
+
+| Diagrama de referência | Grafo real (`flow.png`) |
+|---|---|
+| ![Diagrama de referência do Reflexion Actor](reflection_actor.jpeg) | ![Fluxo do agente](flow.png) |
+
 ```
 Pergunta → Actor (responde ~250 palavras)
         → Reflection (critica: o que falta / o que sobra)
